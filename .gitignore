@@ -1,0 +1,8 @@
+env
+*.py
+!bot.py
+*.json
+!tokens.json
+sss
+sessions
+*.session
